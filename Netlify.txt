@@ -1,1 +1,1 @@
-https://price-cartt.netlify.app/
+https://product-cart-triplek.netlify.app/
